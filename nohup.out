@@ -1,0 +1,2 @@
+2025/03/08 07:23:26 mount helper error: fusermount3: failed to open /dev/fuse: Permission denied
+2025/03/08 07:23:26 CRITICAL: Fatal error: failed to mount FUSE fs: fusermount: exit status 1
